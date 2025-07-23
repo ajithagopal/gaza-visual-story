@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="972" height="972" viewBox="0 0 972 972">
+  <g id="Map_label_left" data-name="Map label left" style="isolation: isolate">
+    <rect id="Rectangle_17767" data-name="Rectangle 17767" width="972" height="972" fill="none"/>
+    <text id="Beit_Lahia" data-name="Beit Lahia" transform="translate(237.605 193.189)" fill="#fff" font-size="35" font-family="Merriweather-Bold, Merriweather" font-weight="700" letter-spacing="-0.025em"><tspan x="0" y="0">Beit Lahia</tspan></text>
+    <text id="Jabalia" transform="translate(237.605 238.189)" fill="#fff" font-size="35" font-family="Merriweather-Bold, Merriweather" font-weight="700" letter-spacing="-0.025em"><tspan x="0" y="0">Jabalia</tspan></text>
+    <text id="Gaza_City" data-name="Gaza City" transform="translate(237.605 284.189)" fill="#fff" font-size="35" font-family="Merriweather-Bold, Merriweather" font-weight="700" letter-spacing="-0.025em"><tspan x="0" y="0">Gaza City</tspan></text>
+    <text id="Khan_Younis" data-name="Khan Younis" transform="translate(17 498)" fill="#fff" font-size="35" font-family="Merriweather-Bold, Merriweather" font-weight="700" letter-spacing="-0.025em"><tspan x="0" y="0">Khan Younis</tspan></text>
+    <text id="Rafah" transform="translate(17 780.908)" fill="#fff" font-size="35" font-family="Merriweather-Bold, Merriweather" font-weight="700" letter-spacing="-0.025em"><tspan x="0" y="0">Rafah</tspan></text>
+    <path id="Path_23241" data-name="Path 23241" d="M-13977.917-23410.951h197.083" transform="translate(14382.578 23686)" fill="none" stroke="#fff" stroke-width="2" stroke-dasharray="6 2"/>
+    <path id="Path_23242" data-name="Path 23242" d="M-13977.918-23410.951h303.371" transform="translate(14337.557 23640)" fill="none" stroke="#fff" stroke-width="2" stroke-dasharray="6 2"/>
+    <path id="Path_23248" data-name="Path 23248" d="M-13977.918-23410.951h67.422" transform="translate(14098.902 24182.859)" fill="none" stroke="#fff" stroke-width="2" stroke-dasharray="6 2"/>
+    <path id="Path_23249" data-name="Path 23249" d="M-13867.325-23524.334l56.356,102.506" transform="translate(14098.902 24030.859)" fill="none" stroke="#fff" stroke-width="2" stroke-dasharray="6 2"/>
+    <path id="Path_23243" data-name="Path 23243" d="M-13977.916-23410.951h282.143" transform="translate(14394.801 23595)" fill="none" stroke="#fff" stroke-width="2" stroke-dasharray="6 2"/>
+  </g>
+</svg>
